@@ -25,7 +25,9 @@ I specialize in:
 ### 🖥 Backend
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)
-![REST API](https://img.shields.io/badge/API-REST-green)
+![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
+![Yii2](https://img.shields.io/badge/Yii2-green?logo=yii&logoColor=white)
+![REST API](https://img.shields.io/badge/API-REST-success)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
