@@ -50,6 +50,16 @@ I specialize in:
 ![CI/CD](https://img.shields.io/badge/CI-CD-blue)
 
 ---
+## 🧪 Testing & Quality
+
+![PHPUnit](https://img.shields.io/badge/PHPUnit-blue)
+![PHPStan](https://img.shields.io/badge/PHPStan-8A2BE2)
+![Psalm](https://img.shields.io/badge/Psalm-blue)
+![Rector](https://img.shields.io/badge/Rector-0E7C86)
+![CS Fixer](https://img.shields.io/badge/PHP%20CS%20Fixer-orange)
+![Playwright](https://img.shields.io/badge/Playwright-green)
+
+---
 
 ### 📊 Observability & Debugging
 ![Prometheus](https://img.shields.io/badge/Prometheus-orange?logo=prometheus&logoColor=white)
@@ -86,8 +96,9 @@ Containerized services, CI/CD pipelines, debugging & observability setup.
 
 ## 📫 Contact Me
 
-💼 LinkedIn: https://www.linkedin.com/in/erkin-azimbaev-b43b09174/
-📨 Telegram: https://t.me/kylian7
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erkin%20Azimbaev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erkin-azimbaev-b43b09174/)
+
+[![Telegram](https://img.shields.io/badge/Telegram-@kylian7-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kylian7)
 
 ---
 
